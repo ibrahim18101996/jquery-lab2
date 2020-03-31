@@ -1,6 +1,27 @@
-#photo-template{
-    display: inline-block;
+/* #photo-template{
+    display: flex;
+    justify-content: space-evenly;
+
 }
 h1{
     text-align: center;
+} */
+
+/* #template > .keyword{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: 200px;
+    width: 220px;
+}  */
+ #keyword{
+    height: 200px;
+    width: 220px; 
+} 
+.hide > div {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 180px;
+    margin: 25px;
 }
